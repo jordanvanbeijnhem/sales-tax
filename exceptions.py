@@ -1,0 +1,2 @@
+class InvalidShoppingBasketItemString(Exception):
+    pass
